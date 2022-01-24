@@ -1,5 +1,8 @@
 # FAIR file columns
-Minimal example for a FAIR file column implementation in Nautilus. Only naïvely checks if the file is listed in the DANS repository as a sustainable format. ![Watch the demo](./demo.mp4).
+
+![Demo](./demo.gif)
+
+Minimal example for a FAIR file column implementation in Nautilus. Only naïvely checks if the file is listed in the DANS repository as a sustainable format.
 
 ## Prerequisites
 
